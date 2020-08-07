@@ -63,8 +63,8 @@
 
 <!-- this is for banner image -->
  
-     <div class="content">
-    <center><div class="banner-image">
+   <div class="content">
+    <div class="banner-image">
       <div class="inner-banner-image">
         <div class="banner_content">
           <h1>B.N electric works</h1>
